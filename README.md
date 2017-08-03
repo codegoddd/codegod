@@ -1,1 +1,3 @@
 # codegod
+
+Hi Humans!
